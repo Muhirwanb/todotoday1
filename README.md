@@ -2,7 +2,7 @@
 To-do To-day is a simple todo list made with Python.
 
 ![To-do To-day in a terminal.](ss.png)
-Format: ![Alt Text](url)
+
 
 
 
